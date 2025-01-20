@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Solomon Kings Edeh (Fixer)
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning web3.js and Solidity
-- 💞️ I’m looking to collaborate on ethereun and blockchain projects
-- 📫 How to reach me edehsolomon844@gmail.com
+<!DOCTYPE html>
+<html>
 
-- ⚡ Fun fact: ...
+  <head>
+    <tiitle>EDEH SOLOMON</tiitle>
+  </head>
+<body>
+<h1>Blockchain Developer, Web3.JS</h1>
+  
+</body>
 
-<!---
-oluwakings/oluwakings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+</html>
+
+ 
+ 
+ 
+ 
+ 
