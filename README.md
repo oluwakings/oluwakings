@@ -1,32 +1,25 @@
-<!DOCTYPE html>
-<html>
+<h1 align="center">Hi 👋, I'm SOLOMON -fixer</h1>
+<h3 align="center">A passionate Blockchain Developer/ Security Researcher</h3>
 
-  <head>
-    <tiitle>EDEH SOLOMON</tiitle>
-  </head>
-<body>
-<h3>Blockchain Developer, Smart Contract Engineer</h3>
-<p>I am a currently developing on JavaScript, Web3. JS and Solidity 
-  <br>
-  I’m looking to collaborate on <strong>ethereun</strong> and <strong>blockchain</strong> projects</p>
-  <a href="https://x.com/i_am_kingsolex?s=21">Follow me on X (Twitter)</a>
-  
-</body>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwakings" alt="oluwakings" /></a> </p>
 
-  
-</html>
+<p align="left"> <a href="https://twitter.com/i_am_kingsolex" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_kingsolex?logo=twitter&style=for-the-badge" alt="i_am_kingsolex" /></a> </p>
 
- 
- 
- <img src = "https://media-hosting.imagekit.io//3776ae100e3b4089/IMG_1733.jpeg?Expires=1831959348&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=P-DpEOAyDTMYfTYliODGCjwXiC9UZP-bhwwQ4CwD56MEBi0OjNlgciU64CKgYH9FzLpyXe7L6x7jmaf-7XA~0SY0MGSR0p3ZcljQK~fI2Hg9TxWl7qt-CGEJhkvZCDZc6wfqSWshGF85YEdW7BkCQiYiq2MU3v6rSf5sGkvuuTt~kS6~tVlhVoPeEUBe4MQggUDFNPZt52YEof5MH3QJZ0f33X4kZIWatF5bGImXxXG-FK0Idw8m5Y8px8EFTxJiekm0pCuL3BBjk9i7rLXhugoQJVWWuR4ZjdFnk57pCoV0a0IAbXEDRFaa72qskOHjHof4hhbTgYycsBOxFAWAsQ__" height="300" widght="200">
- 
+- 🌱 I’m currently learning **Rust, Python**
 
-- 📫 How to reach me edehsolomon844@gmail.com
+- 👯 I’m looking to collaborate on **Blockchain Projects**
 
-- ⚡ Fun fact: ...
+- 💬 Ask me about **Solidity, JS**
 
-<!---
-oluwakings/oluwakings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **edehsolomon844@gmail.com**
+
+- ⚡ Fun fact **I am dog lover**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/i_am_kingsolex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_kingsolex" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
